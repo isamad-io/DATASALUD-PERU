@@ -1,0 +1,32 @@
+[
+  {
+    "codigo_atencion": "AT-2026-002",
+    "fecha_registro": {
+      "$date": "2026-09-23T09:15:00.000Z"
+    },
+    "paciente": {
+      "edad": 42,
+      "sexo": "M",
+      "distrito": "LAREDO",
+      "provincia": "TRUJILLO"
+    },
+    "enfermedad": "LEPTOSPIROSIS",
+    "clasificacion": "CONFIRMADO",
+    "detalles_clinicos": {
+      "exposicion": "Aguas estancadas en acequia de regadío",
+      "severidad": "Moderada",
+      "sintomas": [
+        "Mialgias intensas",
+        "Inyección conjuntival",
+        "Ictericia leve"
+      ],
+      "requiere_hospitalizacion": false
+    },
+    "estado_paciente": "Favorable en monitoreo ambulatorio",
+    "tratamiento": "Doxiciclina 100mg cada 12h por 7 días",
+    "ipress_notificante": {
+      "codigo_renaes": "0000033041",
+      "nombre": "PUESTO DE SALUD LAREDO"
+    }
+  }
+]
